@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>S K Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://sktechnologiesadl.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://sktechnologiesadl.com/">SK Technologies</a> </small></p>
 
 </body>
 </html>
