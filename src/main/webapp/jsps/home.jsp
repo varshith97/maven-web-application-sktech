@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		SK Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Marutha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9494814378 +91 9441340859
 		sktechnologiesadl@gmail.com
