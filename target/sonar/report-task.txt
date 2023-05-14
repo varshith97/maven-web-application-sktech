@@ -1,0 +1,6 @@
+projectKey=SKTech_APP
+serverUrl=http://65.0.122.250:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://65.0.122.250:9000/dashboard?id=SKTech_APP
+ceTaskId=AYgaFebZRvoMRUuIOM8h
+ceTaskUrl=http://65.0.122.250:9000/api/ce/task?id=AYgaFebZRvoMRUuIOM8h
