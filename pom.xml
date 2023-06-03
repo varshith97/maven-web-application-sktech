@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.183.162:8081/repository/sktech-release/</url>
+	      <urlhttp://35.154.249.222:8081/repository/sktech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.183.162:8081/repository/sktech-snapshot/</url>
+	      <url>http://35.154.249.222:8081/repository/sktech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
