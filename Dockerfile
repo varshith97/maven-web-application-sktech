@@ -1,2 +1,5 @@
-FROM tomcat:8.0.20-jre8
-COPY target/maven-web-app*.war /usr/local/tomcat/webapps/maven-web-application.war
+FROM ubuntu
+MAINTAINER sktechnologiesadl
+RUN apt update -y
+RUN useradd sktech
+RUN mkdir /opt/sktech-world
